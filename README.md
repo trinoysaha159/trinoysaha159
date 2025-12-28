@@ -198,7 +198,7 @@ Conference Talks:    6+
 
 ⭐ If you find this profile helpful, consider leaving a star!
 
-</div>## Hi there 👋
+</div>
 
 <!--
 **trinoysaha159/trinoysaha159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
